@@ -53,8 +53,8 @@ The dataset includes the following fields:
 
 ---
 ## Dashboard Intraction
-- **Page 1**: <a href="https://github.com/Abhinav2712mis/Power-Bi--Adidas-Sales-2021/blob/main/Adidas%20Dashboard%20page%201.png">
-- **Page 2**: <a href="https://github.com/Abhinav2712mis/Power-Bi--Adidas-Sales-2021/blob/main/Adidas%20Dashboard%20page%202.png">
+- **Page 1**: <a href="https://github.com/Abhinav2712mis/Power-Bi--Adidas-Sales-2021/blob/main/Adidas%20Dashboard%20page%201.png">1</a>
+- **Page 2**: <a href="https://github.com/Abhinav2712mis/Power-Bi--Adidas-Sales-2021/blob/main/Adidas%20Dashboard%20page%202.png">2</a>
 
 ---
 ## 💡 Skills Demonstrated

@@ -59,7 +59,7 @@ The dataset includes the following fields:
 ---
 ## Power Bi 
 ![image](https://github.com/user-attachments/assets/15994c79-d8c3-460a-9705-bb379f29a9d2)
--**File**:
+-**File**: <a href="https://github.com/Abhinav2712mis/Power-Bi--Adidas-Sales-2021/blob/main/Adidas%20Dashboard.pbix">Main Project File</a>
 ---
 ## 💡 Skills Demonstrated
 - Data Transformation and Modeling (Power Query)

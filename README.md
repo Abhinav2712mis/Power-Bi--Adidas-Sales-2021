@@ -57,12 +57,15 @@ The dataset includes the following fields:
 - **Page 2**: <a href="https://github.com/Abhinav2712mis/Power-Bi--Adidas-Sales-2021/blob/main/Adidas%20Dashboard%20page%202.png">2</a>
 
 ---
+## Power Bi 
+![image](https://github.com/user-attachments/assets/15994c79-d8c3-460a-9705-bb379f29a9d2)
+-**File**:
+---
 ## 💡 Skills Demonstrated
 - Data Transformation and Modeling (Power Query)
 - DAX Measures and Calculations
 - Dashboard Design and UX
 - Visual Storytelling for Business Analysis
----
 
 ---
 
